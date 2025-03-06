@@ -2,9 +2,9 @@ name: AdvancedHelp
 main: me.codedred.advancedhelp.AdvancedHelp
  # keeping author as 'Cmaaxx' for Metrics purposes.
 author: Cmaaxx
-authors: [CodedRed]
+authors: [CodedRed, Fjc]
 version: 1.12.7
-api-version: 1.13
+api-version: 1.21
 softdepend: [PlaceholdersAPI, HeadDatabase, PlaceholderAPI]
 loadbefore: [Essentials, CMI, EssentialsX]
 
